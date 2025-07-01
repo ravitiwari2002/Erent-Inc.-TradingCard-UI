@@ -1,0 +1,18 @@
+{
+  "pages": [
+    {
+      "path": "pages/get-started/index",
+      "style": {
+        "navigationBarTitleText": "Get Started",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/details/index",
+      "style": {
+        "navigationBarTitleText": "Details",
+        "navigationStyle": "custom"
+      }
+    }
+  ]
+}
