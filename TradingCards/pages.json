@@ -13,6 +13,13 @@
         "navigationBarTitleText": "Details",
         "navigationStyle": "custom"
       }
+    },
+    {
+      "path": "pages/my-collection/index",
+      "style": {
+        "navigationBarTitleText": "Collection",
+        "navigationStyle": "custom"
+      }
     }
   ]
 }
